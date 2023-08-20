@@ -1,4 +1,4 @@
-- Nafisa (a.k.a. Kefir)
+- Nafisa Rakhmonova
 - 20 y.o.
 - Highly interested in computational physics
 - Currently learning C++
